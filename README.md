@@ -1,3 +1,10 @@
+---
+title: AI Farming Assistant Bangla
+emoji: 🌾
+sdk: docker
+app_port: 7860
+---
+
 # AI Farming Assistant (Bangla) - Prototype
 
 ## Features
@@ -15,3 +22,4 @@ uvicorn app.main:app --reload --port 8000
 Open:
 - http://localhost:8000/
 - http://localhost:8000/dashboard/
+
